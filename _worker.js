@@ -3,12 +3,12 @@ import { connect } from "cloudflare:sockets";
 // Variables
 const rootDomain = "mky-m30s.web.id"; // Ganti dengan domain utama kalian
 const serviceName = "mecnov"; // Ganti dengan nama workers kalian
-const apiKey = ""; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = ""; // Ganti dengan email yang kalian gunakan
-const accountID = ""; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
-const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const apiKey = "08db1fd00290e81251fd8985741d8521ea631"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
+const apiEmail = "mecswow@gmail.com"; // Ganti dengan email yang kalian gunakan
+const accountID = "b39670c19476021d36cb8a9b6f15d52e"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
+const zoneID = "86bfc91d394da8e3e128046abc2e9f27"; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
-let proxyIP = "";
+let proxyIP = "https://github.com/mecswow/mky-m30s/blob/main/proxyList.txt";
 let cachedProxyList = [];
 
 // Constant
