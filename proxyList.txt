@@ -3457,6 +3457,7 @@
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
 172.232.237.112,2053,ID,Akamai Connected Cloud
+203.194.112.119,8443,ID,CV Rumahweb Indonesia
 40.113.60.248,2053,IE,Microsoft Azure
 40.113.60.248,8443,IE,Microsoft Azure
 34.253.234.62,443,IE,Amazon.com
