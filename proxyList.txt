@@ -3451,7 +3451,7 @@
 203.194.112.119,8443,ID,First Cagayan Converge Data Center Inc.
 172.232.239.151,587,ID,Akamai Connected Cloud
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
-8.215.196.18,587,ID,Alibaba
+149.129.249.145,443,ID,Alibaba
 35.219.15.90,443,ID,Google Cloud
 36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,443,ID,Amazon.com
