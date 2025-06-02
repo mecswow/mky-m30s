@@ -3452,7 +3452,7 @@
 172.232.239.151,587,ID,Akamai Connected Cloud
 203.194.112.119,2053,ID,First Cagayan Converge Data Center Inc.
 149.129.249.145,443,ID,Alibaba
-35.219.15.90,443,ID,Google Cloud
+172.252.8.67,8443,ID,Dreamstart Global LLC
 36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,443,ID,Amazon.com
 103.6.207.108,8080,ID,PT Pusat Media Indonesia
