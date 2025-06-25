@@ -3448,7 +3448,7 @@
 77.91.72.82,443,HU,Stark Industries Solutions
 43.218.77.16,1443,ID,Amazon.com
 172.232.239.151,587,ID,Akamai Connected Cloud
-149.129.249.145,443,ID,Alibaba
+206.84.101.83,8443,ID,Mitra
 172.252.8.67,8443,ID,Dreamstart Global LLC
 36.95.152.58,12137,ID,PT Telkom Indonesia
 43.218.77.16,443,ID,Amazon.com
